@@ -18,13 +18,28 @@
 
 ## Sobre
 
-## Conceitos
+O **bun4noobs** é um projeto que visa mostrar como o bun funciona de forma simples e direta, para que qualquer pessoa possa entender e aprender a utilizar o bun.
 
 ## Roadmap
 
-### Instalação
+- [ ] Introdução
+  - [ ] O que é o bun?
+  - [ ] Por que usar o bun?
+  - [ ] Como o bun funciona?
+  - [ ] Como instalar o bun?
+  - [ ] Como usar o bun?
 
 ## Como contribuir
+
+Para contribuir com este projeto você pode:
+
+- Criar uma issue com uma sugestão/correção de conteúdo
+- Criar uma issue com uma sugestão/correção de código
+- Criar uma issue com uma sugestão de melhoria de código
+- Criar um pull request no repositório
+- E qualquer outra forma que você achar que pode ajudar o projeto
+
+Basta esperar a avaliação do mesmo, e a contribuição estará feita.
 
 
 ## Autores
